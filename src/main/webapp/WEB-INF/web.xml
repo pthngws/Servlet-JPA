@@ -6,6 +6,6 @@
 
     <!-- WebSocket Configuration (if required) -->
     <welcome-file-list>
-        <welcome-file>/admin/videos</welcome-file>
+        <welcome-file>views/admin/category-list.jsp</welcome-file>
     </welcome-file-list>
 </web-app>
